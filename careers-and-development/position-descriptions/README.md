@@ -26,7 +26,7 @@ Not only are Principal Consultants technically brilliant with excellent communic
 
 SixPivot has three specialist Director roles. These roles are in place to allow us to focus on specific areas of the SixPivot business:&#x20;
 
-* What we do for our partners and customers ([Practice Director](broken-reference))&#x20;
+* What we do for our partners and customers ([Practice Director](/broken/pages/IFgUqpkc0xvU6nkTXJQw))&#x20;
 * How we do what we do, with an eye on continual improvement ([Consulting Director](consulting-director.md))&#x20;
 * Innovating how and what we do for our partners, customers and ourselves ([Innovation Director](innovation-director.md))
 

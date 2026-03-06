@@ -33,4 +33,4 @@ Here's some more insight of what your first two days it will look like:
 * Setup your email signature&#x20;
 * Zoom [backgrounds](https://sixpivot.sharepoint.com/:f:/s/HR/Eha7IqAqbwJJn3d6HwFJwAoBQ15FYZM3LYjuG2bDJwK-0Q?e=ya3KJN) (authentication required) are here if you need/want them (but no pressure to use)
 
-\
+<br>

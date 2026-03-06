@@ -30,13 +30,11 @@ You can enable BitLocker yourself following [the Microsoft instructions](https:/
 
 #### Step-by-step instructions
 
-1.  Search “BitLocker” or select Start > Control Panel > System and Security > BitLocker Drive Encryption\
-
+1.  Search “BitLocker” or select Start > Control Panel > System and Security > BitLocker Drive Encryption<br>
 
     <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 2. Choose ‘Turn on BitLocker’
-3.  If you get an error that says “This device can’t use a Trusted Platform Module” then read the steps below “BitLocker Without Trusted Platform Module”\
-
+3.  If you get an error that says “This device can’t use a Trusted Platform Module” then read the steps below “BitLocker Without Trusted Platform Module”<br>
 
     <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 4. Click Next through each step, accepting the default settings. Windows will suggest you back up your data before proceeding.
@@ -45,8 +43,7 @@ You can enable BitLocker yourself following [the Microsoft instructions](https:/
 
     📝 Every now and then Windows might ask you to enter your recovery key if it detects a change to the system (BIOS changes, partitioning the drive). By storing your keys in OneDrive, you can access them from your mobile.
 7. Click next on the remaining steps. The last screen will have an option ‘Run BitLocker system check.’ Check this, then click Continue. BitLocker will show a pop up asking you to restart, once you restart BitLocker will be enabled.
-8.  The BitLocker settings page should tell you if encryption is enabled.\
-
+8.  The BitLocker settings page should tell you if encryption is enabled.<br>
 
     <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,24 +51,19 @@ You can enable BitLocker yourself following [the Microsoft instructions](https:/
 
 A Trusted Platform Module (TPM) is a piece of hardware that comes with modern laptops. It simplifies the BitLocker set up but is not mandatory. These steps will turn on BitLocker without a TPM.
 
-1.  Search “Local Group Policy Editor” and open “Edit group policy”:\
-
+1.  Search “Local Group Policy Editor” and open “Edit group policy”:<br>
 
     <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-2.  Open Computer Configuration > Administrative Templates > Windows Components > BitLocker Drive Encryption > Operating System Drives then open the setting ‘Require additional authentication at startup’.\
-
+2.  Open Computer Configuration > Administrative Templates > Windows Components > BitLocker Drive Encryption > Operating System Drives then open the setting ‘Require additional authentication at startup’.<br>
 
     <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-3.  Select ‘Enabled’ then select OK to close the settings\
-
+3.  Select ‘Enabled’ then select OK to close the settings<br>
 
     <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-4.  Now follow the steps to enable BitLocker. You will see an extra step in the process that will ask you to choose how to unlock your drive at startup. Choose ‘Enter Password’\
-
+4.  Now follow the steps to enable BitLocker. You will see an extra step in the process that will ask you to choose how to unlock your drive at startup. Choose ‘Enter Password’<br>
 
     <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-5.  Windows will ask you for this password every time you start your device:\
-
+5.  Windows will ask you for this password every time you start your device:<br>
 
     <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 6. This password decrypts your drive each time you start your computer. You will still be asked to log in to Windows like usual after this.
@@ -93,36 +85,29 @@ The procedure is listed in the steps below, but the approach is as follows:
 #### Step-by-step instructions
 
 1. Search “Add user” > “Add, edit, or remove other users” > Add someone else to this PC or Control Panel > User Accounts > User Accounts > Manage Another Account > Add a new user in PC settings > Add someone else to this PC
-2.  Choose “I don’t have this person’s sign-in information”\
-
+2.  Choose “I don’t have this person’s sign-in information”<br>
 
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 3. Choose “Add a user without a Microsoft account”
 4. Enter a new username, if you are passing on this laptop enter the new owner's name, or if you are just deleting your old profile enter something like “New Administrator"
 5. Enter a password and fill out the security questions. Then create the new user.
-6.  Click the new user you just create and select Change account type\
-
+6.  Click the new user you just create and select Change account type<br>
 
     <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-7.  Choose Administrator\
-
+7.  Choose Administrator<br>
 
     <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-8.  Log In to the new account. Go Start > Click your username > Sign out\
-
+8.  Log In to the new account. Go Start > Click your username > Sign out<br>
 
     <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-9.  Log in to the new account (bottom left will display your old profile and the new one you just created)\
-
+9.  Log in to the new account (bottom left will display your old profile and the new one you just created)<br>
 
     <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 10. Repeat step 1 to open the user management screen.
-11. Select your old profile and click Remove.\
-
+11. Select your old profile and click Remove.<br>
 
     <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-12. As the warning says, this will delete all the data associated with that account. If you have any personal data you want to back up do this first, then click “Delete account and data”\
-
+12. As the warning says, this will delete all the data associated with that account. If you have any personal data you want to back up do this first, then click “Delete account and data”<br>
 
     <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 13. Make sure you manually delete any work-related data that you were storing outside of your user profile, such as directories under C:\ drive, or another hard drive.
@@ -181,8 +166,7 @@ Here is a screen shot of the partition table that contains a Windows 11 installa
 
 In 1Password you will see your private vault and many different vaults, one for each client.
 
-*   Store your account credentials in your “Private” vault. Account credentials are the log ins that require your SixPivot email or client email to log in to email, Teams, Miro etc. Your private vault is accessible only to you.\
-
+*   Store your account credentials in your “Private” vault. Account credentials are the log ins that require your SixPivot email or client email to log in to email, Teams, Miro etc. Your private vault is accessible only to you.<br>
 
     <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 * Shared client secrets are stored in the client vault. These can be accessed by anyone at SixPivot. A shared client secret is anything except your account credentials. Examples are log ins for the application you are building, database credentials for each environment, Seq logins, build server tokens, etc.

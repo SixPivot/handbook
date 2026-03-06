@@ -25,7 +25,8 @@
 * [Paperwork](new-starters/paperwork.md)
 * [Your first day](new-starters/your-first-day.md)
 * [Your buddy](new-starters/your-buddy.md)
-* [Access and licenses](new-starters/access-and-licenses.md)
+* [Access and licenses](new-starters/access-and-licenses/README.md)
+  * [1Password](new-starters/access-and-licenses/1password.md)
 
 ## How we work
 
