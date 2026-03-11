@@ -22,3 +22,15 @@ The common systems we use are listed below, but if you need access to something 
 | Miro          | Jayne (@jayne)      | As requested    |
 | Balsamiq      | Jayne (@jayne)      | As requested    |
 
+#### AI Tooling
+
+Everyone has a preference when it comes to tooling and we don't want to _enforce_ or limit to a particular tool. So we have a range of tools that are pre-approved for use at SixPivot. You can request a license for **one** AI tool of your choice. And if you need additional tools, reach out to Shirley to have a chat about it. Just please be sure to cross check with our [AI Assisted Software Development Policy. ](https://handbook.sixpivot.com.au/~/revisions/xhUBUn4eNuCID5oan4Qk/how-we-work/policies/ai-assisted-software-development-policy)
+
+| Tool                 | Point of Contact   | Who has access? |
+| -------------------- | ------------------ | --------------- |
+| GitHub Copilot       | Shirley (@shirley) | As requested    |
+| JetBrains AI (Junie) | Shirley (@shirley) | As requested    |
+| Cursor               | Shirley (@shirley) | As requested    |
+| Claude Code          | Shirley (@shirley) | As requested    |
+| ChatGPT              | Shirley (@shirley) | As requested    |
+| Microsoft 365        | Shirley (@shirley) | As requested    |
