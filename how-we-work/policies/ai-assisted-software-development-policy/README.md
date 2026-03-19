@@ -17,7 +17,7 @@ The main objectives of this policy are to:
 
 3.1 Selection and Evaluation of AI Tooling
 
-* For client work, only use AI tooling that has been approved by the PLT.
+* For client work, only use AI tooling that has been approved by the PLT and the client.
 * Evaluate AI tools based on factors such as accuracy, efficiency, reliability, and cost-effectiveness, following these guidelines:
   * Any Pivot may evaluate any free/free trial tool at any time, provided no sensitive SixPivot or Client Intellectual Property is shared.
   * Evaluation where there is a cost associated may be done with approval of the PLT
