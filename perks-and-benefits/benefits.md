@@ -62,7 +62,7 @@ Including same-sex couples, adoptive, foster and parents to stillborn children:
 
 * Profit sharing: an equal distribution of profit each year for all team members (after you’ve been with us for a year)
 * Weekend away including flights and accommodation for you and your partner in our team annual retreat. Note: team living in New Zealand, we cover accommodation and travel expenses (flights and taxis) up to AU $1,000 per person.
-* [Good vibes points](rewards-shop.md); every team member has $1,000 (in points) to allocate to other team members to say great work
+* [Good vibes points](rewards-shop.md); every team member has $150 (in points) to allocate to other team members each quarter to say great work
 * Workversary celebrations with 100 good vibes points x the number of years worked and a bag for your first year
 * SixPivot [Rewards Shop](rewards-shop.md) to spend points
 * Care and celebration packages we share the moments, the good and the bad
