@@ -9,7 +9,7 @@ You can purchase the laptop yourself and expense back to us, or we can purchase 
 * You/we purchase a laptop that has a two-year warranty (up to the value of $4,400 inc GST) &#x20;
 * We reimburse you for the cost of the laptop (if you purchased it yourself)&#x20;
 * Over a 24-month period you will receive an allowance above your normal salary equal to the amount dedicated through salary sacrifice for the laptop; meaning there is no change in your net wages&#x20;
-* If your laptop is over $4,400 you can use laptop top-up points through the SixPivot shop, or pay the difference through deduction in you next pay&#x20;
+* If your laptop is over $4,400 you can use laptop top-up points through the SixPivot shop, or pay the difference through deduction in your next pay&#x20;
 * If you exit SixPivot before the 24-month period, the remaining balance from the laptop scheme is sourced from your final pay and the laptop is yours to keep&#x20;
 * Everybody at SixPivot owns their laptops&#x20;
 
@@ -19,7 +19,7 @@ Our team has put together a list of their recent [laptop recommendations](https:
 
 You’re permitted to purchase a laptop at any time after two years. It’d be great if you can give us a 4-week heads-up when you are thinking of replacing yours.&#x20;
 
-To spread the impact on cashflow, we may occasionally ask you to wait longer. If you are asked to wait by us but want it straight away, you can get approval to buy it on your own and we pay you back at an agreed time.&#x20;
+To spread the impact on cashflow, we may occasionally ask you to wait longer. If you are asked to wait by us but want it straightaway, you can get approval to buy it on your own and we pay you back at an agreed time.&#x20;
 
 Equally if you need a new laptop at any time (even under 2 years) because there is an issue, and you are unable to do your job it will be approved immediately. &#x20;
 
