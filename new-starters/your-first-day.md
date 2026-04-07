@@ -8,7 +8,7 @@ Here's some more insight of what your first two days it will look like:
 
 ### Your first day :tada:
 
-<table><thead><tr><th width="178">When</th><th width="171">Which Pivot</th><th width="74">Feels</th><th>Includes:</th></tr></thead><tbody><tr><td>10:00-10:45am</td><td>Faith</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f44b">👋</span></td><td>Welcome to SixPivot</td></tr><tr><td>11:00-11:30am</td><td>Barry &#x26; Briony</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4bc">💼</span></td><td>What are our projects, who are our clients?</td></tr><tr><td>12:00-12:30pm</td><td>Sammy</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f483">💃</span></td><td>All things dev experience</td></tr><tr><td>12:30-1:30pm</td><td>Lunch</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f354">🍔</span></td><td>Nom nom nom</td></tr><tr><td>1:30-2:00pm</td><td>Tony</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></td><td>Cloud Ctrl what's the go?</td></tr><tr><td>The rest of your afternoon</td><td>The Clouds</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2601">☁️</span></td><td>Getting set up with Cloud Ctrl</td></tr></tbody></table>
+<table><thead><tr><th width="178">When</th><th width="171">Which Pivot</th><th width="74">Feels</th><th>Includes:</th></tr></thead><tbody><tr><td>10:00-10:45am</td><td>Faith</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f44b">👋</span></td><td>Welcome to SixPivot</td></tr><tr><td>11:00-11:30am</td><td>Briony</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4bc">💼</span></td><td>What are our projects, who are our clients?</td></tr><tr><td>12:00-12:30pm</td><td>Sammy</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f483">💃</span></td><td>All things dev experience</td></tr><tr><td>12:30-1:30pm</td><td>Lunch</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f354">🍔</span></td><td>Nom nom nom</td></tr><tr><td>1:30-2:00pm</td><td>Tony</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></td><td>Cloud Ctrl what's the go?</td></tr><tr><td>The rest of your afternoon</td><td>The Clouds</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2601">☁️</span></td><td>Getting set up with Cloud Ctrl</td></tr></tbody></table>
 
 ### Your second day :sparkles:
 
@@ -31,6 +31,6 @@ Here's some more insight of what your first two days it will look like:
 
 * Put your phone number and [README](https://sixpivot.sharepoint.com/sites/HR/SitePages/Team-READMEs.aspx) (authentication required) into your Slack profile
 * Setup your email signature&#x20;
-* Zoom [backgrounds](https://sixpivot.sharepoint.com/:f:/s/HR/Eha7IqAqbwJJn3d6HwFJwAoBQ15FYZM3LYjuG2bDJwK-0Q?e=ya3KJN) (authentication required) are here if you need/want them (but no pressure to use)
+* Zoom/Teams [backgrounds](https://sixpivot.sharepoint.com/:f:/s/HR/Eha7IqAqbwJJn3d6HwFJwAoBQ15FYZM3LYjuG2bDJwK-0Q?e=ya3KJN) (authentication required) are here if you need/want them (but no pressure to use)
 
 <br>
