@@ -74,9 +74,9 @@ _Intention: deep dive into the business, radical transparency on what's happenin
 
 <details>
 
-<summary>🌴 Annual retreat</summary>
+<summary>🌴 Retreat</summary>
 
-In person once a year (around November/December) whole company (plus family invited) paid weekend getaway at a resort.
+In person occasional retreat (generally around November/December) whole company (plus family invited) paid weekend getaway at a resort.
 
 _Intention: for team to relax, have fun and get to know each other + family better. No work, social only._
 
@@ -104,19 +104,9 @@ _Intention: learning together and building rapport._
 
 <details>
 
-<summary>👾 Hackathons</summary>
-
-Once a year with internal pitches and projects for us to work on together
-
-_Intention: learning, having fun, innovating, and building rapport._
-
-</details>
-
-<details>
-
 <summary>🙋 PPP (Pivots, Pivots, Pivots)</summary>
 
-In person, by state, twice a year with [DDD conference ](https://www.dddbrisbane.com)style internal presentations.
+In person, by state, [DDD conference ](https://www.dddbrisbane.com)style internal presentations.
 
 _Intention: creating an internal sense of community and learning._
 
