@@ -11,9 +11,9 @@ You can purchase the laptop yourself and expense back to us, or we can purchase 
 * **$4,500 (inc GST) every 2 years**
 * **$6,250 (inc GST) every 3 years**&#x20;
 
+Some other important details:
 
-
-* You/we purchase a laptop that has a two-year warranty (up to the agreed value from the options above) &#x20;
+* You/we purchase a laptop that has warranty coverage for 2-3 years (up to the agreed value from the options above) &#x20;
 * We reimburse you for the cost of the laptop (if you purchased it yourself)&#x20;
 * Over a 24-month or 36-month period you will receive an allowance above your normal salary equal to the amount dedicated through salary sacrifice for the laptop; meaning there is no change in your net wages&#x20;
 * If your laptop is over the allowance value you can use laptop top-up points through the SixPivot shop, or pay the difference through deduction in your next pay&#x20;
