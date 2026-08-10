@@ -50,6 +50,7 @@
 * [Office details](how-we-work/office-details.md)
 * [Submitting expenses](how-we-work/submitting-expenses.md)
 * [Policies](how-we-work/policies/README.md)
+  * [Device Security and Client Devices](how-we-work/policies/device-security-and-client-devices.md)
   * [AI-Assisted Software Development Policy](how-we-work/policies/ai-assisted-software-development-policy/README.md)
     * [Approved AI Tools](how-we-work/policies/ai-assisted-software-development-policy/approved-ai-tools.md)
     * [Guidelines for AI Tools and AI Assisted Development](how-we-work/policies/ai-assisted-software-development-policy/guidelines-for-ai-tools-and-ai-assisted-development.md)

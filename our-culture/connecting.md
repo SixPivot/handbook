@@ -58,7 +58,7 @@ _Intention: sharing, learning, building rapport and having fun._
 
 Every other month. Team opt-in by joining #pd-books where they pick a book to read and discuss. \
 \
-&#xNAN;_&#x49;ntention: learning and sharing together._
+_&#x49;ntention: learning and sharing together._
 
 </details>
 
