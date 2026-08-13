@@ -55,6 +55,30 @@ Pick up the phone for anything urgent or if you want a chin wag everybody's phon
 
 
 
+### Examples of our comms culture:
+
+**1.  Non-sensitive questions go in a public channel by default**
+
+So the answer is visible to everyone and we all learn from it. Only reach for a DM when something is genuinely sensitive.
+
+**2.  No written reply is expected for a non-urgent message**
+
+Not one of us voted for “a quick reply is expected,” so that much is settled. Exactly where and when a reaction emoji is the right way to say “seen,” especially in a public channel versus a DM, is something still open.
+
+**3.  To flag something genuinely urgent, @mention with a deadline**
+
+Say who you need and by when, in the channel. That is the signal that means “this one is different.”
+
+**4.  Messages sent after 6pm are fine to send**
+
+Send when it suits you. Reading them can wait until working hours. Sending is not the same as expecting an answer that night.
+
+**5.  Keeping your Slack status current is a nice-to-have, not an expectation**
+
+Update it if it helps you, but nobody is checking, and nobody should feel they have to.
+
+
+
 {% embed url="https://async.twist.com/asynchronous-communication/" %}
 Async Comms
 {% endembed %}
