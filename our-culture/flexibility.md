@@ -21,6 +21,14 @@ Take leave and maximise flexibility (we encourage it), but our expectation is th
 
 Use your calendar (SixPivot as well as the client's) to block out personal arrangements. Keep them private, we don't need to know the details, but this will help your team when they need to book some of your time.
 
+### Flexibility works best when we can count on each other to:
+
+* do what we said we'd do, or flag early when we can't.
+* offer help before we're asked, and ask before we're stuck.
+* keep each other posted on where we're at and when that changes.
+* flex back when the team needs it, knowing our flexibility can cost someone else theirs.
+* trust each other to get on with it.
+
 ### Working overseas
 
 We openly encourage the team if they want to be digital nomads in countries that allow them to stay beyond the standard tourist visa. Articles that we like to share with the team:
