@@ -12,12 +12,12 @@ SixPivot have engaged Spectrum Life to provide:
 
 This service is provided for free to you and your immediate families. We do not receive information on who, what, when, or how. It is completely confidential.
 
-More information about the SixPivot EAP can be found in these internal documents - [Welcome Guide](https://sixpivot.sharepoint.com/:b:/s/HR/IQDh8K-yYUiyR5Wwg9a_yG0eAZKwMCJAXNDUAg4h_g-PYN8?e=BurX30) (authentication required).
+More information about the SixPivot EAP can be found in these internal documents - [Welcome guide](https://sixpivot.sharepoint.com/:b:/s/HR/IQDh8K-yYUiyR5Wwg9a_yG0eAZKwMCJAXNDUAg4h_g-PYN8?e=TlOutO) (authentication required).
 
 #### To access the EAP
 
 * Download the ‘Spectrum.Life' app or go to [app.spectrum-life.com.au/login](https://app.spectrum-life.com.au/login)
-* Click on ‘New here? Sign up!’ at the bottom of the page. (Refer to [this document](https://sixpivot.sharepoint.com/:b:/s/HR/ETmG4ckfbitPhbp_3eGAkroBDhybp5SGCVgkZRX3LhklkQ?e=b79RGZ) for the company code. Authentication required)
+* Click on ‘New here? Sign up!’ at the bottom of the page. (Refer to [this document](https://sixpivot.sharepoint.com/:b:/s/HR/IQCOdQOTeO_oTosSONY_DaByAQZYraUmrsMIBCxoat-xDNQ?e=uQlBPV) for the company code. Authentication required)
 
 **Trouble shooting**
 
