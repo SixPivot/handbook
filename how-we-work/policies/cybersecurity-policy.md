@@ -1,3 +1,7 @@
+---
+description: Our Cyber Security Policy for keeping our devices, services & data secure.
+---
+
 # Cybersecurity Policy
 
 ## Purpose
@@ -6,19 +10,21 @@ The purpose of this cybersecurity policy is to protect our customer’s data as 
 
 This policy applies to everyone at SixPivot, as we all interact with systems that process and store sensitive information.
 
-This policy does not contain development guidelines. For that we have the dev wiki, our professional development days, and the combined experience of the team.
+This policy does not contain development guidelines. For that we have the dev wiki, our professional development days, and the combined experience of the team. This guide also compliments our other policies around [Device Security & Client Devices](device-security-and-client-devices.md).
 
 ## Guidelines
 
 ### Laptops and Desktops
 
-These guidelines apply to any computer you use for work, such as a laptop or desktop. Follow the client guidelines and policies for client issued laptops.
+These guidelines apply to any computer you use for work, such as a laptop or desktop.&#x20;
 
-1. Turn on device encryption. On Windows use [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), on Mac use the [Disk Utility](https://support.apple.com/en-au/guide/disk-utility/dskutl35612/mac), and on Linux use [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) with Linux Unified Key Setup (LUKS).
-2. Install security software that actively monitors your device for threats.
+Follow the client guidelines and policies for client issued laptops - as described in [Device Security & Client Devices](device-security-and-client-devices.md).
+
+1. Turn on device encryption. On Windows use [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), on Mac use the [Disk Utility](https://support.apple.com/en-au/guide/disk-utility/dskutl35612/mac), and on Linux use [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) with Linux Unified Key Setup (LUKS) and enable FileSystem Encryption for the partition.
+2. Install security software that actively monitors your device for threats - update it frequently.
 3. Set a lock screen with a password, PIN, or biometrics. Do not share your password/PIN with anyone, or let anyone use your login.
 4. Recommend disabling content in notifications (e.g., show Slack notifications without the message content). This will ensure that no confidential or private information is accidentally shared during a screen sharing session.
-5. When you no longer use your laptop for work, e.g., passing it on to a family member, selling, using as a paper weight, you need to perform a full disk format (the option where data is completely erased, not marked as deleted.
+5. When you no longer use your laptop for work, e.g., passing it on to a family member, selling, using as a paper weight, you need to perform a full disk format (the option where data is completely erased, not marked as deleted) or use a secure wipe such as DBAN (HDD) [ShredOS](https://shredos.org/) (SSD or NVME) or a Secure Wipe on the  SSD/NVME firmware.
 
 <details>
 
@@ -149,9 +155,9 @@ Here is a screen shot of the partition table that contains a Windows 11 installa
 
 </details>
 
-### 2. Passwords
+### Passwords
 
-1. Store client account as well as SixPivot account credentials in the SixPivot credential manager linked to your private vault.
+1. Store client account as well as SixPivot account credentials in the SixPivot credential manager linked to your private vault in [1Password](../../new-starters/access-and-licenses/1password.md).
 2. Enable MFA on client email and client accounts.
 3. Change default passwords. If the client IT can only set your password, share a one-time-link to the password in your credential manager for them to set as your password.
 4. Store client collateral in the SixPivot client folder on SharePoint.
@@ -199,7 +205,7 @@ Mission Impossible self-destruct feature invalidates the link once it has been v
 
 </details>
 
-### 3. Data
+### Data
 
 1. Delete source code from your device and delete credentials from your personal account when the engagement ends.\
    The end of the engagement should be after you have completed the handover, onboarding and training and you are no longer expected to provide support to the customer (see 3.2).
@@ -207,7 +213,7 @@ Mission Impossible self-destruct feature invalidates the link once it has been v
 3. It’s encouraged to keep code snippets for your personal knowledge base or to share with the team. Do not keep the entire source code, unless that is something we agreed to with the customer, such as to save time on boarding in the future, or when we host the customer's source code in the SixPivot repository. What we normally want to keep is useful patterns we applied for that job, not the whole code base itself.
 4. To avoid accidental sharing of customer-identifying text from the code snippets, remove these when collecting code snippets.
 
-### 4. Incidents
+### Incidents
 
 1. Notify the principal leadership team (PLT) about suspected or confirmed breach of customer data on your device. This includes accidental loss or theft of laptop.
 2. Change your account credentials in case of a breach. This includes your SixPivot account, as well as the client accounts.

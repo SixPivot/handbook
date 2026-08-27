@@ -1,3 +1,9 @@
+---
+description: >-
+  How we manage our devices securely and utilise client devices effectively and
+  securely in our networks.
+---
+
 # Device Security and Client Devices
 
 ## Purpose
@@ -31,6 +37,37 @@ Whether you use Windows, macOS or Linux, it should:
 Our [Cybersecurity Policy](https://handbook.sixpivot.com.au/how-we-work/policies/cybersecurity-policy) contains the broader security requirements and guidance for protecting your device.
 
 We don't prescribe a particular operating system or security stack. We do expect everyone to maintain a reasonable security posture appropriate to the device they're using.
+
+### Isolating Your Accounts
+
+There are times when we use our own SixPivot devices to sign in to a customer environment, whether that's GitHub, Azure DevOps, Microsoft 365, Azure or another customer-managed service.
+
+For these situations, we encourage you to use a **separate browser profile for each customer**, rather than using your personal or SixPivot browser profile.
+
+A browser profile creates a useful boundary between environments. It keeps authentication sessions, cookies, browser history, extensions and saved credentials separate and reduces the risk of accidentally accessing a customer service using the wrong account.
+
+For example, you might have - on your SixPivot device:
+
+* **Personal** - personal accounts and services
+* **SixPivot** - SixPivot Microsoft 365, GitHub and our internal services
+* **Customer A** - accounts and services associated with that customer
+* **Customer B** - accounts and services associated with another customer
+
+Where possible, avoid signing customer accounts into your SixPivot or personal browser profile, even temporarily. Likewise, don't sign personal or unrelated SixPivot accounts into a customer profile.
+
+#### **Keep the Boundary Clean**
+
+A separate profile is most useful when it remains isolated.
+
+Avoid sharing saved passwords, browser sessions or customer-specific extensions between profiles. Be particularly careful when browsers offer to synchronise profiles or credentials using a personal or SixPivot account.
+
+Downloads from customer systems should also be treated as customer data. Store them only where appropriate for that engagement and remove local copies when they're no longer required.
+
+If an engagement requires stronger isolation, a browser profile may not be sufficient. A dedicated customer device or isolated virtual machine provides a stronger boundary and should be used where required by the customer or where the sensitivity of the work warrants it.
+
+The general principle is simple: **keep personal, SixPivot and customer identities separated and avoid allowing authentication or data to unintentionally cross those boundaries.**
+
+When an engagement ends, it's also easier to remove the browser profile and data associated with it.
 
 ## Engagement Lifecycle
 
