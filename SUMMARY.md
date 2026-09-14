@@ -52,6 +52,7 @@
 * [Policies](how-we-work/policies/README.md)
   * [Device Security and Client Devices](how-we-work/policies/device-security-and-client-devices.md)
   * [Responsible Use of AI](how-we-work/policies/responsible-use-of-ai/README.md)
+    * [AI Writing Policy](how-we-work/policies/responsible-use-of-ai/ai-writing-policy.md)
     * [AI Checklist](how-we-work/policies/responsible-use-of-ai/ai-checklist.md)
     * [AI Tools and Services](how-we-work/policies/responsible-use-of-ai/ai-tools-and-services.md)
     * [AI-Assisted Software Development](how-we-work/policies/responsible-use-of-ai/ai-assisted-software-development.md)
