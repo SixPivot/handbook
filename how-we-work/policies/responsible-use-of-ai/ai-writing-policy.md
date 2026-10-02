@@ -2,7 +2,7 @@
 
 Writing is how we communicate our thoughts and ideas to another person. We appreciate the productivity that AI has allowed us in other spaces, however the humanity behind writing warrants protection. \
 \
-We’re not going to tell you, you have to write every first draft from scratch (although it's a nice idea). But we will draw a line at AI slop being thrown over the fence and creating more work for others (client and internally). This isn’t an acceptable standard of work. \
+We’re not going to tell you that you have to write every first draft from scratch (although it's a nice idea). But we will draw a line at AI slop being thrown over the fence and creating more work for others (client and internally). This isn’t an acceptable standard of work. \
 \
 We've come up with a few principles:<br>
 
