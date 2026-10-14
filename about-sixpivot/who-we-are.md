@@ -16,29 +16,48 @@ Founding SixPivot in 2015, Faith Rees brought together people she'd worked with 
 
 ### Vision
 
-Seeing SixPivot as her legacy, Faith is growing a company that everyone can be owners of. SixPivot is purposefully without VC's and external shareholders making decisions. Her vision is for the team to become shareholders of SixPivot and be wholly run by its people, sharing in profits. \
-\
-Faith envisioned her personal future wealth to come from product businesses she would go on to found. Hence, the SixPivot group:
+To build a company where exceptional people do meaningful work, continually grow and make a lasting difference through technology.
 
-<figure><img src="../.gitbook/assets/SixPivot Group.png" alt=""><figcaption></figcaption></figure>
+SixPivot was founded on the belief that great technology outcomes come from great people. Our ambition has always been to create more than a traditional technology consultancy - to build a business where talented individuals are empowered to think differently, challenge convention and take ownership of the outcomes they deliver.
 
-Our ideal future state is to have an ecosystem where developers cycle between consulting and product to explore all types of technical and business challenges, continually growing and engaging with a variety of interesting values aligned projects.&#x20;
+We believe in combining technical excellence with genuine care for our customers, our colleagues and the communities we serve. We want SixPivot to be a place where people are proud of what they create, feel valued for their contributions and have opportunities to continually develop their skills and careers.
+
+Our future is built around embracing emerging technologies, exploring new ways of working and creating opportunities for our people to move between consulting, innovation and product development. This diversity of experience allows us to solve meaningful challenges, stay at the forefront of our industry and keep our work interesting and rewarding.
+
+Above all, we want SixPivot to be recognised not just for what we deliver, but for how we deliver it with integrity, curiosity, accountability and a genuine commitment to doing the right thing. In the new world of AI this has never been more nuanced.
 
 ### Cloud Ctrl
 
-Our product that gives transparency to cloud costs.
+Originally developed within SixPivot, Cloud Ctrl has evolved into an independent business and platform used by customers globally.&#x20;
 
-People often ask why their cloud spend is so much, or what changed to make it cost more. Big cloud vendors don't want you to understand your spend. The endpoints to pull from are poorly maintained, poorly documented, brittle, inconsistent, and subject to frequent change.&#x20;
+Cloud Ctrl was born from SixPivot's experience helping customers understand, manage and optimise their cloud environments. Recognising the growing complexity of cloud consumption and the need for greater financial transparency, the team developed a platform to give organisations better visibility and control over their technology spend.
 
-Cloud Ctrl provides complete visibility of your cloud spend, anomalies, projections and spend trends. The product is saving customers hundreds of thousands of dollars in cloud spend every month and is evolving into an Environmental and Social Governance Tool that can provide cost management and governance across any consumption data.
+Today, Cloud Ctrl operates as its own independent entity (MSP Cloud Holdings Pty Ltd Trading as Cloud Ctrl), providing cloud and AI cost visibility, optimisation and governance capabilities to customers and partners around the world.
 
-### JumpSpiders
+SixPivot remains a valued Cloud Ctrl partner, leveraging the platform to deliver FinOps consulting, cloud cost optimisation and governance services to our customers.
 
-Our innovation incubator that develops and commercialises software products. &#x20;
+This partnership reflects SixPivot's commitment to innovation and demonstrates how ideas developed within our business evolve into successful technology solutions with global reach.
 
-Often there's a proven demand for product that has not yet been commercialised. Regularly these "market pull ideas" don't have a team to propel them forward.
+### Innovation at SixPivot
 
-In JumpSpiders we evaluate these ideas (whether they be internal team ideas or external client ideas) and look to the broader market applicability. If it's the right fit, we build the product for global scale in partnership.
+Innovation is part of who we are. We encourage our people to challenge conventional thinking, explore emerging technologies and turn great ideas into practical solutions.
+
+At SixPivot, innovation isn't limited to customer projects. We actively encourage our team to identify opportunities, experiment with new approaches and develop tools, frameworks and products that solve real-world challenges.
+
+Our commitment to innovation has been recognised, with SixPivot earning places on the Australian Financial Review's Most Innovative Companies lists, reflecting our ability to turn creative thinking and emerging technologies into meaningful outcomes for customers.
+
+Over the years, this mindset has led to a number of innovations, including:
+
+* **DevOps Toolkit** – An open-source toolkit developed by our engineers to simplify and accelerate DevOps practices, contributing to the broader developer community.
+* **ALLY** – An AI-powered innovation designed to help organisations explore opportunities, accelerate discovery and turn ideas into actionable outcomes.
+* **Clin6** – A technology solution developed through SixPivot's expertise in building practical, purpose-driven software.
+* **Cloud Ctrl** – Originally developed within SixPivot and now operating as an independent global technology business, demonstrating how innovation can grow beyond its origins.
+
+Our approach to innovation is grounded in solving genuine problems. Whether an idea comes from our people, our customers or emerging market needs, we look for opportunities to create solutions that deliver meaningful value.
+
+We believe that giving our people the freedom to experiment, collaborate and continually learn is fundamental to remaining relevant in a rapidly changing technology landscape.
+
+Our ambition is to keep building a culture where innovation happens every day not just through the technology we create, but through how we think, work and deliver value for our customers.
 
 ### Purpose
 

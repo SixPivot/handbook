@@ -60,17 +60,19 @@ Including same-sex couples, adoptive, foster and parents to stillborn children:
 
 <summary>⭐️ Perks</summary>
 
-* Profit sharing: an equal distribution of profit each year for all team members (after you’ve been with us for a year)
-* Weekend away including flights and accommodation for you and your partner in our team annual retreat. Note: team living in New Zealand, we cover accommodation and travel expenses (flights and taxis) up to AU $1,000 per person.
-* [Good vibes points](rewards-shop.md); every team member has $150 (in points) to allocate to other team members each quarter to say great work
-* Workversary celebrations with 100 good vibes points x the number of years worked and a bag for your first year
-* SixPivot [Rewards Shop](rewards-shop.md) to spend points
-* Care and celebration packages we share the moments, the good and the bad
-* Novated car lease options - we don't have a fleet lease group, but we support staff setting up their own individual sourced lease company (can provide you with referrals)
-* Salary sacrifice options - (e.g., one portable electronic device per FBT year or/and extra super contributions) and we'll still pay your super guarantee contributions based on your original ordinary time earnings and not on your reduced salary
-* SixPivot merch - hoodies, shirts, masks, socks, flask mugs, stickers, notebooks and pens
-* Transparent salary bands
-* Always owned by its people - the future of SixPivot is to never sell and for the team to be 100% owners of the business
+* **Profit sharing:** when business performance allows, SixPivot may offer discretionary profit-sharing payments to eligible team members who have been with us for at least 12 months. Any profit-sharing arrangements are determined by the business and are not guaranteed annually.
+* **The SixPivot Summit:** our annual team get-together, bringing everyone together to connect, collaborate, celebrate achievements and align on what's ahead. The location, format and travel arrangements may vary each year.
+* **Team Events & Experiences:** from time to time, we organise additional team activities, celebrations and experiences to bring our people together. These may include trips or special events depending on the occasion.
+* [**Good vibes points**](rewards-shop.md)**:** every team member has $150 in points each quarter to recognise colleagues who have gone above and beyond.&#x20;
+* **Workversary Celebrations:** celebrate your SixPivot milestones with 100 Good Vibes Points for every year of service, plus a special gift for your first anniversary.
+* **SixPivot Rewards Shop:** redeem your Good Vibes Points for rewards through our [Rewards Shop](rewards-shop.md).&#x20;
+* **Care and celebration packages:** we recognise life's important moments, both the good and the challenging, with thoughtful gestures of support and celebration.
+* **Novated car leasing:** we support team members who wish to arrange a novated lease through their preferred provider and can offer referrals where helpful.
+* **Salary sacrifice options:** options may include eligible portable electronic devices and additional superannuation contributions. We continue to calculate superannuation guarantee contributions on your original ordinary time earnings, rather than your reduced salary.
+* **SixPivot merch:** from hoodies and shirts to socks, drinkware, notebooks and more, we love sharing a little SixPivot pride.
+* **Transparent salary bands:** we believe in openness and fairness when it comes to remuneration, with transparent salary bands that support clarity and career development.\
+  \
+  Above all, we're committed to making SixPivot a place where people feel supported, recognised and proud to be part of the team.
 
 </details>
 
