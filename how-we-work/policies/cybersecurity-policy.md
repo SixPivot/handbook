@@ -20,11 +20,18 @@ These guidelines apply to any computer you use for work, such as a laptop or des
 
 Follow the client guidelines and policies for client issued laptops - as described in [Device Security & Client Devices](device-security-and-client-devices.md).
 
-1. Turn on device encryption. On Windows use [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), on Mac use the [Disk Utility](https://support.apple.com/en-au/guide/disk-utility/dskutl35612/mac), and on Linux use [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) with Linux Unified Key Setup (LUKS) and enable FileSystem Encryption for the partition.
+1. Turn on device encryption.
+   1. On Windows use [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838);
+   2. On Mac use the [Disk Utility](https://support.apple.com/en-au/guide/disk-utility/dskutl35612/mac) and the [FileVault encryption](https://support.apple.com/en-au/guide/mac-help/mh11785/mac);
+   3. On Linux use [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) with Linux Unified Key Setup (LUKS) and enable FileSystem Encryption for the partition.
 2. Install security software that actively monitors your device for threats - update it frequently.
 3. Set a lock screen with a password, PIN, or biometrics. Do not share your password/PIN with anyone, or let anyone use your login.
 4. Recommend disabling content in notifications (e.g., show Slack notifications without the message content). This will ensure that no confidential or private information is accidentally shared during a screen sharing session.
-5. When you no longer use your laptop for work, e.g., passing it on to a family member, selling, using as a paper weight, you need to perform a full disk format (the option where data is completely erased, not marked as deleted) or use a secure wipe such as DBAN (HDD) [ShredOS](https://shredos.org/) (SSD or NVME) or a Secure Wipe on the  SSD/NVME firmware.
+5. When you no longer use your laptop for work, e.g., passing it on to a family member, selling, using as a paper weight, you need to perform a full disk format (the option where data is completely erased, not marked as deleted) or use a secure wipe such as [DBAN](https://sourceforge.net/projects/dban/files/latest/download) (for a HDD) [ShredOS](https://github.com/PartialVolume/shredos.x86_64/releases) (SSD or NVME) or a Secure Wipe on the SSD/NVME firmware.
+
+{% hint style="info" %}
+Never download ShredOS from ShredOS.org, it is [a malicious website](https://github.com/PartialVolume/shredos.x86_64/issues/475). Install it from [Github Releases](https://github.com/PartialVolume/shredos.x86_64/releases) instead.
+{% endhint %}
 
 <details>
 
@@ -207,7 +214,8 @@ Mission Impossible self-destruct feature invalidates the link once it has been v
 
 ### Data
 
-1. Delete source code from your device and delete credentials from your personal account when the engagement ends.\
+1. Delete source code from your device and delete credentials from your personal account when the engagement ends. Including snapshots of filesystems that may contain assets or source which may be recoverable later (Eg. Btrfs/ZFS snapshots).\
+   \
    The end of the engagement should be after you have completed the handover, onboarding and training and you are no longer expected to provide support to the customer (see 3.2).
 2. When we have an agreement (formal or informal) with the client to provide support, do not delete the credentials or source code. This ensures we can respond quickly to urgent support requests. When the agreement ends then delete the source code and credentials (see 3.1).
 3. It’s encouraged to keep code snippets for your personal knowledge base or to share with the team. Do not keep the entire source code, unless that is something we agreed to with the customer, such as to save time on boarding in the future, or when we host the customer's source code in the SixPivot repository. What we normally want to keep is useful patterns we applied for that job, not the whole code base itself.
