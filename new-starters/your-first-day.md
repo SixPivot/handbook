@@ -22,11 +22,6 @@ Here's some more insight of what your first two days it will look like:
 * Login to Xero (you should have received a login activation email)
 * Login to 1Password (you should have received a login activation email)
 
-### Some things to familiarise yourself with
-
-* Watch Faith speak about our [Purpose](https://web.microsoftstream.com/video/e4787e3f-f9bc-480a-a468-3caa52e56f22)
-* Watch Faith speak about our partnership with [Microsoft](https://web.microsoftstream.com/video/03097f12-4224-4d41-ad86-a8d7120ef5ba)
-
 ### Things to set up when you’re ready
 
 * Put your phone number and [README](https://sixpivot.sharepoint.com/sites/HR/SitePages/Team-READMEs.aspx) (authentication required) into your Slack profile
