@@ -1,5 +1,5 @@
 ---
-description: How we use AI assisted tools to enhance our development experiencce.
+description: How we use AI assisted tools to enhance our development experience.
 ---
 
 # AI-Assisted Software Development
@@ -64,7 +64,7 @@ Tests should validate the expected behaviour and requirements of the system, not
 
 Use AI to help find edge cases and generate tests, but apply independent thought to what actually needs to be proven.
 
-Ensure that tests generated are high-value and not testing irrelevant or unncessary things.
+Ensure that tests generated are high-value and not testing irrelevant or unnecessary things.
 
 ## Be deliberate about dependencies and architecture
 
