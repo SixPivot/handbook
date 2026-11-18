@@ -66,6 +66,7 @@ Including same-sex couples, adoptive, foster and parents to stillborn children:
 * [**Good vibes points**](rewards-shop.md)**:** every team member has $150 in points each quarter to recognise colleagues who have gone above and beyond.&#x20;
 * **Workversary Celebrations:** celebrate your SixPivot milestones with 100 Good Vibes Points for every year of service, plus a special gift for your first anniversary.
 * **SixPivot Rewards Shop:** redeem your Good Vibes Points for rewards through our [Rewards Shop](rewards-shop.md).&#x20;
+* **1Password license** for you and your family: covering 5 users with shared vaults (note: you retain access if you ever leave, but you would need to start paying for it).&#x20;
 * **Care and celebration packages:** we recognise life's important moments, both the good and the challenging, with thoughtful gestures of support and celebration.
 * **Novated car leasing:** we support team members who wish to arrange a novated lease through their preferred provider and can offer referrals where helpful.
 * **Salary sacrifice options:** options may include eligible portable electronic devices and additional superannuation contributions. We continue to calculate superannuation guarantee contributions on your original ordinary time earnings, rather than your reduced salary.
